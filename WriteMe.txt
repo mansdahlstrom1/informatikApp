@@ -1,4 +1,0 @@
-Getting started is real ez:
-
-
-http://ionicframework.com/getting-started/

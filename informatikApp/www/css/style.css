@@ -1,1 +1,5 @@
 /* Empty. Add your own CSS if you like */
+ul, ol {
+    list-style-type: circle;
+    padding-left: 20px;
+}
